@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-and-Visualization-Virtual-Experience
+
 These are the tasks I completed and the skills gained from this virtual experience
 
 Project Understanding
